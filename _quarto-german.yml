@@ -6,10 +6,6 @@ lang: de
 website:
   navbar:
     left:
-      - href: index.qmd
-        text: Start
-      - href: about.qmd
-        text: Über mich
       - href: research.qmd
         text: Forschung
     right:
