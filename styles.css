@@ -1,1 +1,39 @@
 /* css styles */
+
+.headshot {
+  width: 100%;
+  max-width: 220px;
+  border-radius: 8px;
+}
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin-top: 0.5rem;
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 11rem 1fr;
+  gap: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+}
+
+.timeline-date {
+  font-variant-numeric: tabular-nums;
+  color: var(--bs-secondary-color, #6c757d);
+  white-space: nowrap;
+}
+
+.timeline-role {
+  font-weight: 500;
+}
+
+@media (max-width: 575px) {
+  .timeline-item {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+}

@@ -3,6 +3,12 @@ toc: false
 ---
 
 ::: {.content-visible when-profile="english"}
+
+:::: {.grid}
+::: {.g-col-12 .g-col-sm-4 .g-col-md-3}
+![](images/headshot.png){.headshot fig-alt="Headshot of Matthew Hawke"}
+:::
+::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
 # Matthew Hawke
 
 I am a passionate and ambitious health scientist in the third semester of an
@@ -10,8 +16,31 @@ M.Sc. in Public Health, Exercise and Nutrition at the University of Potsdam. My
 professional background includes clinical experience as a physiotherapist and as
 a senior operational advisor in the New Zealand public service.
 :::
+::::
+
+## Experience
+
+<div class="timeline">
+<div class="timeline-item"><span class="timeline-date">Jul 2026 – Dec 2026</span><span class="timeline-role">Student Research Intern — Professorship of Social and Preventive Medicine, University of Potsdam</span></div>
+<div class="timeline-item"><span class="timeline-date">Nov 2025 – present</span><span class="timeline-role">Physiotherapist — Caritas-Klinik St. Anna, Berlin</span></div>
+<div class="timeline-item"><span class="timeline-date">Oct 2025 – present</span><span class="timeline-role">M.Sc. Public Health, Exercise and Nutrition — University of Potsdam</span></div>
+<div class="timeline-item"><span class="timeline-date">May 2025 – Oct 2025</span><span class="timeline-role">Volunteer Worker — Wilmersdorfer Seniorenstiftung, Berlin</span></div>
+<div class="timeline-item"><span class="timeline-date">Nov 2023 – Aug 2024</span><span class="timeline-role">CrossFit Coach &amp; Group Fitness Instructor — CrossFit Poneke, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Aug 2021 – Apr 2024</span><span class="timeline-role">Senior Advisor — Immigration New Zealand, Ministry of Business, Innovation and Employment, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Jan 2020 – Aug 2021</span><span class="timeline-role">Physiotherapist — Dalman Physiotherapy, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Jan 2020 – Aug 2021</span><span class="timeline-role">Volunteer Physiotherapist — Waterside Karori Women's Football Club, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Feb 2016 – Nov 2019</span><span class="timeline-role">Bachelor of Health Science (Physiotherapy) — Auckland University of Technology</span></div>
+</div>
+
+:::
 
 ::: {.content-visible when-profile="german"}
+
+:::: {.grid}
+::: {.g-col-12 .g-col-sm-4 .g-col-md-3}
+![](images/headshot.png){.headshot fig-alt="Porträtfoto von Matthew Hawke"}
+:::
+::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
 # Matthew Hawke
 
 Ich bin ein leidenschaftlicher und ambitionierter Gesundheitswissenschaftler im
@@ -19,4 +48,21 @@ dritten Semester des M.Sc. Public Health, Exercise and Nutrition an der
 Universität Potsdam. Zu meinem beruflichen Werdegang zählen klinische Erfahrung
 als Physiotherapeut sowie eine Tätigkeit als Senior Operational Advisor im
 neuseeländischen öffentlichen Dienst.
+:::
+::::
+
+## Werdegang
+
+<div class="timeline">
+<div class="timeline-item"><span class="timeline-date">Jul. 2026 – Dez. 2026</span><span class="timeline-role">Studentischer Forschungspraktikant — Professur für Sozial- und Präventivmedizin, Universität Potsdam</span></div>
+<div class="timeline-item"><span class="timeline-date">Nov. 2025 – heute</span><span class="timeline-role">Physiotherapeut — Caritas-Klinik St. Anna, Berlin</span></div>
+<div class="timeline-item"><span class="timeline-date">Okt. 2025 – heute</span><span class="timeline-role">M.Sc. Public Health, Exercise and Nutrition — Universität Potsdam</span></div>
+<div class="timeline-item"><span class="timeline-date">Mai 2025 – Okt. 2025</span><span class="timeline-role">Ehrenamtliche Tätigkeit — Wilmersdorfer Seniorenstiftung, Berlin</span></div>
+<div class="timeline-item"><span class="timeline-date">Nov. 2023 – Aug. 2024</span><span class="timeline-role">CrossFit-Coach &amp; Group-Fitness-Trainer — CrossFit Poneke, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Aug. 2021 – Apr. 2024</span><span class="timeline-role">Senior Advisor — Immigration New Zealand, Ministry of Business, Innovation and Employment, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Jan. 2020 – Aug. 2021</span><span class="timeline-role">Physiotherapeut — Dalman Physiotherapy, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Jan. 2020 – Aug. 2021</span><span class="timeline-role">Ehrenamtlicher Physiotherapeut — Waterside Karori Women's Football Club, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Feb. 2016 – Nov. 2019</span><span class="timeline-role">Bachelor of Health Science (Physiotherapie) — Auckland University of Technology</span></div>
+</div>
+
 :::
