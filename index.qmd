@@ -26,7 +26,9 @@ a senior operational advisor in the New Zealand public service.
 <div class="timeline-item"><span class="timeline-date">Oct 2025 – present</span><span class="timeline-role">M.Sc. Public Health, Exercise and Nutrition — University of Potsdam</span></div>
 <div class="timeline-item"><span class="timeline-date">May 2025 – Oct 2025</span><span class="timeline-role">Volunteer Worker — Wilmersdorfer Seniorenstiftung, Berlin</span></div>
 <div class="timeline-item"><span class="timeline-date">Nov 2023 – Aug 2024</span><span class="timeline-role">CrossFit Coach &amp; Group Fitness Instructor — CrossFit Poneke, Wellington</span></div>
-<div class="timeline-item"><span class="timeline-date">Aug 2021 – Apr 2024</span><span class="timeline-role">Senior Advisor — Immigration New Zealand, Ministry of Business, Innovation and Employment, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Jul 2022 – Apr 2024</span><span class="timeline-role">Senior Advisor — Immigration New Zealand, Ministry of Business, Innovation and Employment, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Feb 2022 – Jul 2022</span><span class="timeline-role">Business Advisor — Immigration New Zealand, Ministry of Business, Innovation and Employment, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Aug 2021 – Feb 2022</span><span class="timeline-role">Personal Assistant / Team Administrator — Immigration New Zealand, Ministry of Business, Innovation and Employment, Wellington</span></div>
 <div class="timeline-item"><span class="timeline-date">Jan 2020 – Aug 2021</span><span class="timeline-role">Physiotherapist — Dalman Physiotherapy, Wellington</span></div>
 <div class="timeline-item"><span class="timeline-date">Jan 2020 – Aug 2021</span><span class="timeline-role">Volunteer Physiotherapist — Waterside Karori Women's Football Club, Wellington</span></div>
 <div class="timeline-item"><span class="timeline-date">Feb 2016 – Nov 2019</span><span class="timeline-role">Bachelor of Health Science (Physiotherapy) — Auckland University of Technology</span></div>
@@ -59,7 +61,9 @@ neuseeländischen öffentlichen Dienst.
 <div class="timeline-item"><span class="timeline-date">Okt. 2025 – heute</span><span class="timeline-role">M.Sc. Public Health, Exercise and Nutrition — Universität Potsdam</span></div>
 <div class="timeline-item"><span class="timeline-date">Mai 2025 – Okt. 2025</span><span class="timeline-role">Ehrenamtliche Tätigkeit — Wilmersdorfer Seniorenstiftung, Berlin</span></div>
 <div class="timeline-item"><span class="timeline-date">Nov. 2023 – Aug. 2024</span><span class="timeline-role">CrossFit-Coach &amp; Group-Fitness-Trainer — CrossFit Poneke, Wellington</span></div>
-<div class="timeline-item"><span class="timeline-date">Aug. 2021 – Apr. 2024</span><span class="timeline-role">Senior Advisor — Immigration New Zealand, Ministry of Business, Innovation and Employment, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Juli 2022 – Apr. 2024</span><span class="timeline-role">Senior Advisor — Immigration New Zealand, Ministry of Business, Innovation and Employment, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Feb. 2022 – Juli 2022</span><span class="timeline-role">Business Advisor — Immigration New Zealand, Ministry of Business, Innovation and Employment, Wellington</span></div>
+<div class="timeline-item"><span class="timeline-date">Aug. 2021 – Feb. 2022</span><span class="timeline-role">Persönlicher Assistent / Teamadministrator — Immigration New Zealand, Ministry of Business, Innovation and Employment, Wellington</span></div>
 <div class="timeline-item"><span class="timeline-date">Jan. 2020 – Aug. 2021</span><span class="timeline-role">Physiotherapeut — Dalman Physiotherapy, Wellington</span></div>
 <div class="timeline-item"><span class="timeline-date">Jan. 2020 – Aug. 2021</span><span class="timeline-role">Ehrenamtlicher Physiotherapeut — Waterside Karori Women's Football Club, Wellington</span></div>
 <div class="timeline-item"><span class="timeline-date">Feb. 2016 – Nov. 2019</span><span class="timeline-role">Bachelor of Health Science (Physiotherapie) — Auckland University of Technology</span></div>
