@@ -27,8 +27,18 @@
   white-space: nowrap;
 }
 
+.timeline-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
 .timeline-role {
   font-weight: 500;
+}
+
+.timeline-more {
+  font-size: 0.85rem;
 }
 
 @media (max-width: 575px) {

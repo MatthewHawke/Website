@@ -1,0 +1,11 @@
+---
+toc: false
+---
+
+::: {.content-visible when-profile="english"}
+# CrossFit Coach & Group Fitness Instructor — CrossFit Poneke, Wellington
+:::
+
+::: {.content-visible when-profile="german"}
+# CrossFit-Coach & Group-Fitness-Trainer — CrossFit Poneke, Wellington
+:::

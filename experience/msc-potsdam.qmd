@@ -1,0 +1,11 @@
+---
+toc: false
+---
+
+::: {.content-visible when-profile="english"}
+# M.Sc. Public Health, Exercise and Nutrition — University of Potsdam
+:::
+
+::: {.content-visible when-profile="german"}
+# M.Sc. Public Health, Exercise and Nutrition — Universität Potsdam
+:::

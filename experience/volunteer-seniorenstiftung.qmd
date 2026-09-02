@@ -1,0 +1,11 @@
+---
+toc: false
+---
+
+::: {.content-visible when-profile="english"}
+# Volunteer Worker — Wilmersdorfer Seniorenstiftung, Berlin
+:::
+
+::: {.content-visible when-profile="german"}
+# Ehrenamtliche Tätigkeit — Wilmersdorfer Seniorenstiftung, Berlin
+:::

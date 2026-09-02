@@ -1,0 +1,11 @@
+---
+toc: false
+---
+
+::: {.content-visible when-profile="english"}
+# Bachelor of Health Science (Physiotherapy) — Auckland University of Technology
+:::
+
+::: {.content-visible when-profile="german"}
+# Bachelor of Health Science (Physiotherapie) — Auckland University of Technology
+:::

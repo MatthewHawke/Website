@@ -1,0 +1,11 @@
+---
+toc: false
+---
+
+::: {.content-visible when-profile="english"}
+# Student Research Intern — Professorship of Social and Preventive Medicine, University of Potsdam
+:::
+
+::: {.content-visible when-profile="german"}
+# Studentischer Forschungspraktikant — Professur für Sozial- und Präventivmedizin, Universität Potsdam
+:::
