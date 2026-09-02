@@ -1,6 +1,5 @@
----
-title: "Research"
----
+::: {.content-visible when-profile="english"}
+# Research
 
 ## Systematic Review
 
@@ -19,3 +18,26 @@ Hawke, M. & Thevessen, C. (2026). Are compensatory health beliefs associated wit
 Hawke, M. & Lobb, L. (2019). What is the relationship between injury and training load in New Zealand elite netball? Auckland University of Technology. Grade: A/1,3
 
 [Download PDF](pdfs/hawke-lobb-2019-bachelor-thesis.pdf)
+:::
+
+::: {.content-visible when-profile="german"}
+# Forschung
+
+## Systematische Übersichtsarbeit
+
+Hawke, M. & Thevessen, C. (2026). Comparison of long-term outcomes between surgical and conservative management for anterior cruciate ligament injury: A systematic review. PEN-12-Seminar „Scientific Research Methods", Fakultät für Gesundheitswissenschaften Brandenburg, Universität Potsdam. Beim ersten Einreichen angenommen.
+
+[Manuskript (PDF)](pdfs/hawke-thevessen-2026-acl-systematic-review.pdf) · [Poster (PDF)](pdfs/hawke-thevessen-2026-aclr-poster.pdf)
+
+## Forschungsanträge
+
+Hawke, M. & Thevessen, C. (2026). Are compensatory health beliefs associated with non-exercise physical activity compensation after a 12-week aerobic exercise intervention? IEW-PEN-17-Seminar Ernährungswissenschaft, Universität Potsdam. Note: 1,3
+
+[Antrag (PDF)](pdfs/hawke-thevessen-2026-grant-proposal.pdf)
+
+## Bachelorarbeit
+
+Hawke, M. & Lobb, L. (2019). What is the relationship between injury and training load in New Zealand elite netball? Auckland University of Technology. Note: A/1,3
+
+[PDF herunterladen](pdfs/hawke-lobb-2019-bachelor-thesis.pdf)
+:::

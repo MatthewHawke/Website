@@ -1,7 +1,11 @@
 ---
-title: "Matthew Hawke"
+toc: false
 ---
 
-This is a Quarto website.
+::: {.content-visible when-profile="english"}
+# Matthew Hawke
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.content-visible when-profile="german"}
+# Matthew Hawke
+:::

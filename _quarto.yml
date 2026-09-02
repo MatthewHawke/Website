@@ -1,14 +1,15 @@
 project:
   type: website
 
+# Language profiles. `english` is the default; each profile is defined in
+# _quarto-english.yml / _quarto-german.yml and renders to its own subfolder.
+profile:
+  default: english
+  group:
+    - [english, german]
+
 website:
   title: "Matthew Hawke"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - research.qmd
 
 format:
   html:
@@ -17,6 +18,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-

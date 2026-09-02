@@ -1,0 +1,19 @@
+project:
+  output-dir: _site/en
+
+lang: en
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+    right:
+      - href: ../en/
+        text: EN
+      - href: ../de/
+        text: DE
