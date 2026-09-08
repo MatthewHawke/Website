@@ -15,10 +15,21 @@
 
 .timeline-item {
   display: grid;
-  grid-template-columns: 11rem 1fr;
-  gap: 1rem;
+  grid-template-columns: 10rem 2.75rem 1fr;
+  align-items: start;
+  gap: 0.9rem;
   padding-bottom: 0.6rem;
   border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+}
+
+.timeline-logo {
+  width: 2.75rem;
+  height: 2.75rem;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 6px;
+  padding: 3px;
 }
 
 .timeline-date {
@@ -43,7 +54,23 @@
 
 @media (max-width: 575px) {
   .timeline-item {
-    grid-template-columns: 1fr;
-    gap: 0.15rem;
+    grid-template-columns: 2.75rem 1fr;
+    grid-template-areas:
+      "logo date"
+      "logo body";
+    gap: 0.15rem 0.7rem;
+  }
+
+  .timeline-logo {
+    grid-area: logo;
+    align-self: center;
+  }
+
+  .timeline-date {
+    grid-area: date;
+  }
+
+  .timeline-body {
+    grid-area: body;
   }
 }
