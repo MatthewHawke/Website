@@ -3,9 +3,9 @@ toc: false
 ---
 
 ::: {.content-visible when-profile="english"}
-# Physiotherapist — Caritas-Klinik St. Anna, Berlin
+# Working Student, Physiotherapy — Caritas-Klinik St. Anna, Berlin
 :::
 
 ::: {.content-visible when-profile="german"}
-# Physiotherapeut — Caritas-Klinik St. Anna, Berlin
+# Werkstudent, Physiotherapie — Caritas-Klinik St. Anna, Berlin
 :::
