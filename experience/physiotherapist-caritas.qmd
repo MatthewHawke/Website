@@ -4,8 +4,41 @@ toc: false
 
 ::: {.content-visible when-profile="english"}
 # Working Student, Physiotherapy — Caritas-Klinik St. Anna, Berlin
+
+**November 2025 – present** · Berlin-Charlottenburg · Part-time alongside my M.Sc.
+
+I am a working student in the physiotherapy department of Caritas-Klinik
+St. Anna, in a hands-on clinical role treating patients on the geriatric
+medicine (Altersmedizin) ward. Older patients come here for inpatient
+rehabilitation after acute treatment in another hospital, and usually stay for about three weeks. The
+interdisciplinary team focuses on setting rehabilitation goals and planning
+each patient's discharge.
+
+- A daily caseload of 10–12 patients, many with multimorbidity, frailty and
+  complex rehabilitation needs
+- Setting goals with patients and adapting treatment to each person's needs
+- Coordinating treatment with colleagues in the interdisciplinary team
+- All patient care, team communication and clinical documentation in German
 :::
 
 ::: {.content-visible when-profile="german"}
 # Werkstudent, Physiotherapie — Caritas-Klinik St. Anna, Berlin
+
+**November 2025 – heute** · Berlin-Charlottenburg · In Teilzeit neben dem M.Sc.
+
+Ich bin Werkstudent in der Physiotherapie-Abteilung der Caritas-Klinik
+St. Anna und behandle in dieser klinischen Tätigkeit Patient:innen auf der
+Station für Altersmedizin. Ältere
+Patient:innen kommen nach einer Akutbehandlung in einem anderen Krankenhaus zur
+stationären Rehabilitation zu uns und bleiben in der Regel etwa drei Wochen.
+Im Mittelpunkt der Arbeit des interdisziplinären Teams stehen die
+Rehabilitationsziele und die Entlassungsplanung.
+
+- Tägliche Fallzahl von 10–12 Patient:innen, häufig mit Multimorbidität,
+  Gebrechlichkeit und komplexem Rehabilitationsbedarf
+- Zielsetzung gemeinsam mit den Patient:innen und individuell angepasste
+  Behandlung
+- Abstimmung der Therapie mit Kolleg:innen im interdisziplinären Team
+- Patientenversorgung, Teamkommunikation und klinische Dokumentation
+  vollständig auf Deutsch
 :::
