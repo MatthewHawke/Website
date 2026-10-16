@@ -17,4 +17,8 @@ format:
       - cosmo
       - brand
     css: styles.css
+    # Cookie-free page-view counting; dashboard at matthewhawke.goatcounter.com
+    include-in-header:
+      text: |
+        <script data-goatcounter="https://matthewhawke.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     toc: true
