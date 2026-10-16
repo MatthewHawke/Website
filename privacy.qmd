@@ -1,0 +1,127 @@
+---
+toc: false
+---
+
+::: {.content-visible when-profile="english"}
+# Privacy policy
+
+*Last updated: 16 October 2026*
+
+## Who is responsible
+
+This is the personal website of Matthew Hawke. I am responsible for the
+processing of personal data on this site under the EU General Data Protection
+Regulation (GDPR). You can contact me at
+[matthew.hawke12@gmail.com](mailto:matthew.hawke12@gmail.com).
+
+## Hosting
+
+This site is hosted on GitHub Pages, a service of GitHub, Inc., 88 Colin P.
+Kelly Jr. Street, San Francisco, CA 94107, USA. When you visit a page, GitHub
+receives technical data that your browser sends automatically, including your
+IP address, and may keep it in server logs to provide and secure the service.
+The legal basis is my legitimate interest in running a reliable website
+(Art. 6(1)(f) GDPR). GitHub participates in the EU–U.S. Data Privacy Framework.
+See [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+## Visitor statistics
+
+To see how many people visit and which pages they read, this site uses
+[GoatCounter](https://www.goatcounter.com), a privacy-friendly analytics
+service.
+
+- GoatCounter **does not use cookies** and stores nothing on your device.
+- It records the page visited, the referring website, browser and operating
+  system, screen size and the country, which is derived from your IP address.
+- Your IP address is **not stored**. To tell repeat visits apart, GoatCounter
+  briefly uses a hash of your IP address and browser, which is discarded after
+  a few hours.
+- The statistics cannot be used to identify you, and are not shared with
+  anyone else.
+
+The legal basis is my legitimate interest in understanding how the site is used
+(Art. 6(1)(f) GDPR). Many ad and tracking blockers block GoatCounter. If yours
+does, you are not counted.
+
+## Fonts
+
+All fonts are served from this website. No data is sent to Google or other font
+providers.
+
+## Contacting me
+
+If you email me, I use your address and message only to reply to you. They are
+not passed on to anyone else.
+
+## Your rights
+
+You have the right to access, correct or delete your personal data, to restrict
+or object to its processing, and to data portability (Art. 15–21 GDPR). To use
+these rights, email me. You can also complain to a data protection supervisory
+authority. For Berlin, this is the
+[Berlin Commissioner for Data Protection and Freedom of Information](https://www.datenschutz-berlin.de).
+:::
+
+::: {.content-visible when-profile="german"}
+# Datenschutzerklärung
+
+*Stand: 16. Oktober 2026*
+
+## Verantwortlicher
+
+Dies ist die persönliche Website von Matthew Hawke. Verantwortlich für die
+Verarbeitung personenbezogener Daten auf dieser Website im Sinne der
+Datenschutz-Grundverordnung (DSGVO) bin ich. Sie erreichen mich unter
+[matthew.hawke12@gmail.com](mailto:matthew.hawke12@gmail.com).
+
+## Hosting
+
+Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub,
+Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Beim Aufruf
+einer Seite erhält GitHub technische Daten, die Ihr Browser automatisch
+übermittelt, darunter Ihre IP-Adresse, und kann diese in Server-Logfiles
+speichern, um den Dienst bereitzustellen und abzusichern. Rechtsgrundlage ist
+mein berechtigtes Interesse an einem zuverlässigen Betrieb der Website
+(Art. 6 Abs. 1 lit. f DSGVO). GitHub nimmt am EU-US Data Privacy Framework teil.
+Siehe die [Datenschutzerklärung von GitHub](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
+
+## Besucherstatistik
+
+Um zu sehen, wie viele Menschen die Website besuchen und welche Seiten sie
+lesen, verwendet diese Website [GoatCounter](https://www.goatcounter.com),
+einen datenschutzfreundlichen Statistikdienst.
+
+- GoatCounter **verwendet keine Cookies** und speichert nichts auf Ihrem Gerät.
+- Erfasst werden die aufgerufene Seite, die verweisende Website, Browser und
+  Betriebssystem, Bildschirmgröße sowie das Land, das aus Ihrer IP-Adresse
+  abgeleitet wird.
+- Ihre IP-Adresse wird **nicht gespeichert**. Um wiederholte Aufrufe zu
+  erkennen, verwendet GoatCounter kurzzeitig einen Hashwert aus IP-Adresse und
+  Browser, der nach wenigen Stunden verworfen wird.
+- Die Statistik lässt keine Rückschlüsse auf Ihre Person zu und wird nicht an
+  Dritte weitergegeben.
+
+Rechtsgrundlage ist mein berechtigtes Interesse daran, die Nutzung der Website
+zu verstehen (Art. 6 Abs. 1 lit. f DSGVO). Viele Werbe- und Trackingblocker
+blockieren GoatCounter. In diesem Fall werden Sie nicht gezählt.
+
+## Schriftarten
+
+Alle Schriftarten werden von dieser Website selbst ausgeliefert. Es werden
+keine Daten an Google oder andere Anbieter von Schriftarten übermittelt.
+
+## Kontakt per E-Mail
+
+Wenn Sie mir eine E-Mail schreiben, verwende ich Ihre Adresse und Nachricht
+ausschließlich, um Ihnen zu antworten. Sie werden nicht an Dritte
+weitergegeben.
+
+## Ihre Rechte
+
+Sie haben das Recht auf Auskunft, Berichtigung und Löschung Ihrer
+personenbezogenen Daten, auf Einschränkung der Verarbeitung, auf Widerspruch
+sowie auf Datenübertragbarkeit (Art. 15–21 DSGVO). Schreiben Sie mir dazu
+einfach eine E-Mail. Außerdem können Sie sich bei einer
+Datenschutz-Aufsichtsbehörde beschweren, in Berlin bei der
+[Berliner Beauftragten für Datenschutz und Informationsfreiheit](https://www.datenschutz-berlin.de).
+:::

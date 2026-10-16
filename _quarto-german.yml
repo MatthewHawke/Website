@@ -5,7 +5,7 @@ lang: de
 
 website:
   page-footer:
-    center: "Diese Website zählt Seitenaufrufe mit cookiefreier Statistik ([GoatCounter](https://www.goatcounter.com)). Es werden keine personenbezogenen Daten erhoben."
+    center: "Keine Cookies, keine gespeicherten personenbezogenen Daten: Diese Website zählt Besuche mit [GoatCounter](https://www.goatcounter.com). [Datenschutzerklärung](/privacy.qmd)"
   navbar:
     left:
       - href: research.qmd
