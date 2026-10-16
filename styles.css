@@ -101,3 +101,26 @@
     grid-area: body;
   }
 }
+
+/* Grade tables grouped by year (experience/bachelor-aut.qmd). Rows are
+   tinted by position: 8 courses in 2016, 6 in 2017, 8 in 2018, 4 in 2019,
+   then the average row. Update the ranges if courses are added or removed. */
+.grade-years .table > tbody > tr > td {
+  background-color: var(--year-bg, transparent);
+}
+
+.grade-years tbody tr:nth-child(-n+8) { --year-bg: rgba(13, 110, 253, 0.08); }
+.grade-years tbody tr:nth-child(n+9):nth-child(-n+14) { --year-bg: rgba(25, 135, 84, 0.10); }
+.grade-years tbody tr:nth-child(n+15):nth-child(-n+22) { --year-bg: rgba(255, 193, 7, 0.14); }
+.grade-years tbody tr:nth-child(n+23):nth-child(-n+26) { --year-bg: rgba(111, 66, 193, 0.09); }
+
+.grade-years tbody tr:nth-child(1) > td,
+.grade-years tbody tr:nth-child(9) > td,
+.grade-years tbody tr:nth-child(15) > td,
+.grade-years tbody tr:nth-child(23) > td {
+  border-top: 2px solid rgba(128, 128, 128, 0.35);
+}
+
+.grade-years tbody tr:nth-child(27) > td {
+  border-top: 2px solid rgba(128, 128, 128, 0.6);
+}

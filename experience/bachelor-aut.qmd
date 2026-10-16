@@ -4,8 +4,289 @@ toc: false
 
 ::: {.content-visible when-profile="english"}
 # Bachelor of Health Science (Physiotherapy) — Auckland University of Technology
+
+**February 2016 – November 2019** · Auckland, New Zealand · Graduated December 2019
+
+## About the degree
+
+The Bachelor of Health Science (Physiotherapy) is a four-year, full-time degree
+(480 points) and qualifies graduates to register as physiotherapists in New
+Zealand. The first year shares a health science foundation with other health
+disciplines. The second and third years build physiotherapy knowledge and
+skills across musculoskeletal, cardiorespiratory and neurological practice. The
+fourth year is spent mostly on full-time clinical placements, alongside a
+research project.
+
+The programme is built around person-centred, evidence-based and culturally
+responsive practice, including Te Tiriti o Waitangi. Graduates are trained to
+reason clinically, work with other professions, and plan and carry out their
+own research.
+
+## Clinical placements
+
+I completed about **1,020 supervised clinical hours** across hospital, private
+practice and community settings.
+
+#### General Medicine, Auckland City Hospital — 2018
+
+Two-week clinical assistantship (80 hours) in acute adult cardiorespiratory care.
+
+- Introduction to working in a hospital healthcare team
+- Clinical reasoning from case notes and patient interviews
+- Hands-on assistance with patient care
+
+#### Neuro/Surgical Services, Auckland City Hospital — Mar–May 2019
+
+Acute inpatient placement (320 hours) on a neurosurgical ward.
+
+- Conditions included acute stroke, Parkinson's, MS, Guillain–Barré syndrome,
+  motor neurone disease, COPD and pneumonia
+- Neurological assessment and rehabilitation, including task-oriented training
+- Respiratory management, including tracheostomy weaning
+- Balance and mobility training, the Otago Exercise Programme, splinting and
+  discharge planning
+- Multidisciplinary team and family meetings
+
+#### Sports Lab, Remuera (private practice) — Jun–Aug 2019
+
+Musculoskeletal and sports physiotherapy (312 hours).
+
+- Back, neck, knee, ankle and shoulder injuries, and post-operative rehabilitation
+- Chronic conditions such as osteoarthritis, tendinopathy and recurrent back pain
+- Manual therapy, exercise prescription, education and behaviour change
+
+#### Allied Health Community, Greenlane Clinical Centre — Sep–Oct 2019
+
+Community placement (312 hours), managing my own caseload in clients' homes.
+
+- Mostly older adults, referred by GPs, support agencies and hospital services
+- Stroke, Parkinson's, falls, palliative care, vestibular and orthopaedic
+  rehabilitation, and long-term conditions
+- Exercise prescription, advice and education, and home equipment provision
+
+## Research project
+
+Hawke, M. & Lobb, L. (2019). *What is the relationship between injury and
+training load in New Zealand elite netball?* Grade: A.
+[Download PDF](../pdfs/hawke-lobb-2019-bachelor-thesis.pdf)
+
+## Grades
+
+AUT grades run from A+ (9 grade points) to C- (1, the lowest pass). My grade
+point average, weighted by course points, is **7.4 out of 9 (A-)**. That is
+roughly **1.5** on the German scale, converted with the modified Bavarian
+formula.
+
+::: {.grade-years}
+| Year | Course | Points | Grade |
+|:-----|:-------|-------:|:-----:|
+| 2016 | Lifespan Development and Communication | 15 | A- |
+| 2016 | Human Anatomy and Physiology I | 15 | A |
+| 2016 | Knowledge, Enquiry and Communication | 15 | A |
+| 2016 | Health and Environment | 15 | A+ |
+| 2016 | Therapeutic Touch in Physiotherapy Practice | 15 | B+ |
+| 2016 | Fundamentals of Movement | 15 | A- |
+| 2016 | Physiotherapy and Health Priorities | 15 | C+ |
+| 2016 | Passport to Practise I | 15 | A |
+| 2017 | Functional Anatomy and Biomechanics | 15 | A- |
+| 2017 | Body Systems and Health Conditions in Physiotherapy | 15 | A |
+| 2017 | Exercise Physiology and Rehabilitation | 15 | A |
+| 2017 | Analysing Health Needs | 15 | A- |
+| 2017 | Principles of Movement and Function I | 30 | A- |
+| 2017 | Principles of Movement and Function II | 30 | B+ |
+| 2018 | Exercise-based Rehabilitation | 15 | A |
+| 2018 | Managing Complexity in the Acute Care Environment | 15 | A+ |
+| 2018 | Acute Care | 15 | A |
+| 2018 | Musculoskeletal Disorders: Diagnosis and Rehabilitation | 15 | A |
+| 2018 | Managing Complexity in the Community Environment | 15 | A |
+| 2018 | Physiotherapy Professional Practice | 15 | A- |
+| 2018 | Managing Neuromuscular Disorders | 15 | A+ |
+| 2018 | Rehabilitation and Participation | 15 | B+ |
+| 2019 | Physiotherapy Practice I | 30 | A |
+| 2019 | Physiotherapy Practice II | 30 | A- |
+| 2019 | Physiotherapy Practice III | 30 | A |
+| 2019 | Research Project | 30 | A |
+| | **Grade point average (weighted by points)** | **480** | **7.4 / 9 (A-) ≈ 1.5** |
+:::
+
+## Course content
+
+#### Year 1 (2016): Health science foundations
+
+- Human anatomy and physiology, and the musculoskeletal, cardiorespiratory and
+  nervous systems
+- Psychology and human development across the lifespan
+- Health, environment and the determinants of health in Aotearoa New Zealand
+- Health promotion and the epidemiology of leading health issues
+- Introduction to physiotherapy assessment, massage, and moving and handling
+- Academic writing, information literacy and mātauranga Māori
+
+#### Year 2 (2017): Physiotherapy knowledge and skills
+
+- Functional anatomy and biomechanics, including gait, running and the lumbar spine
+- Assessment and rehabilitation of the upper and lower body
+- Body systems, healing and common health conditions
+- Exercise physiology, exercise testing and prescription, and behaviour change
+- Research designs and critical appraisal of health evidence
+
+#### Year 3 (2018): Clinical specialties
+
+- Acute care: hospital-based assessment and treatment of medical and surgical patients
+- Musculoskeletal disorders of the spine: diagnosis, clinical reasoning and treatment
+- Neuromuscular disorders: motor control and neurological rehabilitation
+- Managing complex patients in acute and community settings, including pain science
+- Rehabilitation, the ICF framework and interprofessional practice
+- Professional practice, ethics and a hospital clinical assistantship
+
+#### Year 4 (2019): Clinical practice and research
+
+- Three full-time clinical placements (see above)
+- Research project: literature review, methods, analysis and presentation of findings
 :::
 
 ::: {.content-visible when-profile="german"}
 # Bachelor of Health Science (Physiotherapie) — Auckland University of Technology
+
+**Februar 2016 – November 2019** · Auckland, Neuseeland · Abschluss Dezember 2019
+
+## Über den Studiengang
+
+Der Bachelor of Health Science (Physiotherapy) ist ein vierjähriges
+Vollzeitstudium (480 Punkte) und berechtigt zur Registrierung als
+Physiotherapeut in Neuseeland. Das erste Jahr vermittelt gemeinsam mit anderen
+Gesundheitsberufen die gesundheitswissenschaftlichen Grundlagen. Im zweiten und
+dritten Jahr folgen physiotherapeutisches Wissen und praktische Fertigkeiten in
+den Bereichen Muskuloskelettal, Kardiorespiratorisch und Neurologie. Das vierte
+Jahr besteht vor allem aus Vollzeit-Praktika in der Klinik sowie einem
+Forschungsprojekt.
+
+Im Mittelpunkt des Studiums steht eine personenzentrierte, evidenzbasierte und
+kultursensible Praxis, einschließlich Te Tiriti o Waitangi. Absolventen lernen,
+klinisch zu begründen, interprofessionell zu arbeiten sowie eigene Forschung zu
+planen und durchzuführen.
+
+## Klinische Praktika
+
+Ich habe rund **1.020 supervidierte klinische Stunden** in Krankenhaus,
+Privatpraxis und ambulanter Versorgung absolviert.
+
+#### General Medicine, Auckland City Hospital — 2018
+
+Zweiwöchige klinische Hospitation (80 Stunden) in der akuten
+kardiorespiratorischen Versorgung Erwachsener.
+
+- Einstieg in die Arbeit im Behandlungsteam eines Krankenhauses
+- Klinisches Begründen anhand von Patientenakten und Anamnesegesprächen
+- Praktische Mitarbeit in der Patientenversorgung
+
+#### Neuro/Surgical Services, Auckland City Hospital — März–Mai 2019
+
+Stationäres Akutpraktikum (320 Stunden) auf einer neurochirurgischen Station.
+
+- Krankheitsbilder u. a. akuter Schlaganfall, Parkinson, MS, Guillain-Barré-Syndrom,
+  Motoneuron-Erkrankung, COPD und Pneumonie
+- Neurologische Befundung und Rehabilitation, u. a. aufgabenorientiertes Training
+- Atemtherapie, einschließlich Trachealkanülen-Entwöhnung
+- Gleichgewichts- und Mobilitätstraining, Otago-Übungsprogramm, Schienenversorgung
+  und Entlassungsplanung
+- Interdisziplinäre Teambesprechungen und Angehörigengespräche
+
+#### Sports Lab, Remuera (Privatpraxis) — Juni–Aug. 2019
+
+Muskuloskelettale und sportphysiotherapeutische Versorgung (312 Stunden).
+
+- Verletzungen an Rücken, Nacken, Knie, Sprunggelenk und Schulter sowie
+  postoperative Rehabilitation
+- Chronische Beschwerden wie Arthrose, Tendinopathie und rezidivierende Rückenschmerzen
+- Manuelle Therapie, Trainingstherapie, Patientenedukation und Verhaltensänderung
+
+#### Allied Health Community, Greenlane Clinical Centre — Sept.–Okt. 2019
+
+Ambulantes Praktikum (312 Stunden) mit eigenem Patientenstamm in der häuslichen
+Versorgung.
+
+- Überwiegend ältere Menschen, überwiesen von Hausärzten, Pflegediensten und Kliniken
+- Schlaganfall, Parkinson, Sturzprävention, Palliativversorgung, vestibuläre und
+  orthopädische Rehabilitation sowie chronische Erkrankungen
+- Trainingstherapie, Beratung und Edukation sowie Hilfsmittelversorgung
+
+## Forschungsprojekt
+
+Hawke, M. & Lobb, L. (2019). *What is the relationship between injury and
+training load in New Zealand elite netball?* Note: A.
+[PDF herunterladen](../pdfs/hawke-lobb-2019-bachelor-thesis.pdf)
+
+## Noten
+
+Die Notenskala der AUT reicht von A+ (9 Notenpunkte) bis C- (1, knapp
+bestanden). Mein nach Leistungspunkten gewichteter Notendurchschnitt beträgt
+**7,4 von 9 (A-)**. Nach der modifizierten bayerischen Formel entspricht das
+etwa der deutschen Note **1,5**.
+
+::: {.grade-years}
+| Jahr | Kurs | Punkte | Note |
+|:-----|:-----|-------:|:----:|
+| 2016 | Lifespan Development and Communication | 15 | A- |
+| 2016 | Human Anatomy and Physiology I | 15 | A |
+| 2016 | Knowledge, Enquiry and Communication | 15 | A |
+| 2016 | Health and Environment | 15 | A+ |
+| 2016 | Therapeutic Touch in Physiotherapy Practice | 15 | B+ |
+| 2016 | Fundamentals of Movement | 15 | A- |
+| 2016 | Physiotherapy and Health Priorities | 15 | C+ |
+| 2016 | Passport to Practise I | 15 | A |
+| 2017 | Functional Anatomy and Biomechanics | 15 | A- |
+| 2017 | Body Systems and Health Conditions in Physiotherapy | 15 | A |
+| 2017 | Exercise Physiology and Rehabilitation | 15 | A |
+| 2017 | Analysing Health Needs | 15 | A- |
+| 2017 | Principles of Movement and Function I | 30 | A- |
+| 2017 | Principles of Movement and Function II | 30 | B+ |
+| 2018 | Exercise-based Rehabilitation | 15 | A |
+| 2018 | Managing Complexity in the Acute Care Environment | 15 | A+ |
+| 2018 | Acute Care | 15 | A |
+| 2018 | Musculoskeletal Disorders: Diagnosis and Rehabilitation | 15 | A |
+| 2018 | Managing Complexity in the Community Environment | 15 | A |
+| 2018 | Physiotherapy Professional Practice | 15 | A- |
+| 2018 | Managing Neuromuscular Disorders | 15 | A+ |
+| 2018 | Rehabilitation and Participation | 15 | B+ |
+| 2019 | Physiotherapy Practice I | 30 | A |
+| 2019 | Physiotherapy Practice II | 30 | A- |
+| 2019 | Physiotherapy Practice III | 30 | A |
+| 2019 | Research Project | 30 | A |
+| | **Notendurchschnitt (nach Punkten gewichtet)** | **480** | **7,4 / 9 (A-) ≈ 1,5** |
+:::
+
+## Studieninhalte
+
+#### 1. Jahr (2016): Gesundheitswissenschaftliche Grundlagen
+
+- Anatomie und Physiologie sowie muskuloskelettales, kardiorespiratorisches und
+  Nervensystem
+- Psychologie und menschliche Entwicklung über die Lebensspanne
+- Gesundheit, Umwelt und Gesundheitsdeterminanten in Aotearoa Neuseeland
+- Gesundheitsförderung und Epidemiologie zentraler Gesundheitsprobleme
+- Einführung in physiotherapeutische Befundung, Massage sowie Lagern und Transferieren
+- Wissenschaftliches Schreiben, Informationskompetenz und mātauranga Māori
+
+#### 2. Jahr (2017): Physiotherapeutisches Wissen und Fertigkeiten
+
+- Funktionelle Anatomie und Biomechanik, u. a. Gang, Laufen und Lendenwirbelsäule
+- Befundung und Rehabilitation von oberer und unterer Extremität
+- Körpersysteme, Heilungsprozesse und häufige Krankheitsbilder
+- Trainingsphysiologie, Leistungsdiagnostik, Trainingsplanung und Verhaltensänderung
+- Forschungsdesigns und kritische Bewertung gesundheitswissenschaftlicher Evidenz
+
+#### 3. Jahr (2018): Klinische Fachgebiete
+
+- Akutversorgung: Befundung und Behandlung internistischer und chirurgischer Patienten
+- Muskuloskelettale Erkrankungen der Wirbelsäule: Diagnostik, klinisches Begründen
+  und Behandlung
+- Neuromuskuläre Erkrankungen: motorische Kontrolle und neurologische Rehabilitation
+- Versorgung komplexer Patienten im Krankenhaus und ambulant, einschließlich Schmerzwissenschaft
+- Rehabilitation, ICF und interprofessionelle Zusammenarbeit
+- Berufspraxis, Ethik und eine klinische Hospitation im Krankenhaus
+
+#### 4. Jahr (2019): Klinische Praxis und Forschung
+
+- Drei Vollzeit-Praktika in der Klinik (siehe oben)
+- Forschungsprojekt: Literaturrecherche, Methodik, Auswertung und Präsentation der Ergebnisse
 :::
