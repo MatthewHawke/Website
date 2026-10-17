@@ -4,8 +4,106 @@ toc: false
 
 ::: {.content-visible when-profile="english"}
 # Student Research Intern — Professorship of Social and Preventive Medicine, University of Potsdam
+
+**July 2026 – December 2026** · Potsdam (hybrid) · M.Sc. research internship, 15 ECTS
+
+The Professorship of Social and Preventive Medicine at the University of
+Potsdam, led by Prof. Dr. med. Dr. phil. Michael Rapp, researches the
+prevention and treatment of mental illness across the lifespan. One of its
+research areas is breathwork in mental health, a multi-site project funded by
+the German Center for Mental Health (DZPG).
+
+## Projects I'm involved in
+
+### High-ventilation breathwork music trial
+
+I am part of the team running an experimental study on how **music genre**
+affects people during **high-ventilation (holotropic) breathwork**. The study
+compares classical music with modern electronic music such as techno, and
+looks at:
+
+- altered states of consciousness during the session
+- mental well-being afterwards
+- heart rate variability and oxygen saturation
+- the role of each participant's own musical preferences
+
+### Online survey: acute effects of breathwork
+
+An anonymous online survey run by
+[Humboldt-Universität zu Berlin and the University of Potsdam](https://dziobek-lab.org/breathwork-survey/),
+developed with the Berlin Breathwork Council. It asks people who have recently
+taken part in a fast-paced breathwork session about the effects they noticed
+during and afterwards, such as on their well-being, bodily sensations and
+emotions. The aim is to better assess the safety of breathwork and understand
+how people process these experiences.
+
+## My contribution so far
+
+- Turning research questions into measurable items, including developing the
+  music-related questionnaire items
+- Building the full survey in SoSci Survey, combining validated psychometric
+  and clinical scales with our own measures
+- Setting up an ecological momentary assessment (EMA) in the m-Path app
+- Recruiting participants for the online survey by contacting breathwork
+  facilitators and community members across multiple channels
+- Helping to support the breathwork sessions and data collection on site
+- Managing and analysing the data (Excel and R)
+- Writing a pre-registration and a scientific article on the relationship
+  between physiological changes and altered states of consciousness
+
 :::
 
 ::: {.content-visible when-profile="german"}
 # Studentischer Forschungspraktikant — Professur für Sozial- und Präventivmedizin, Universität Potsdam
+
+**Juli 2026 – Dezember 2026** · Potsdam (hybrid) · Forschungspraktikum im M.Sc., 15 LP
+
+Die Professur für Sozial- und Präventivmedizin der Universität Potsdam unter
+der Leitung von Prof. Dr. med. Dr. phil. Michael Rapp erforscht die Prävention
+und Behandlung psychischer Erkrankungen über die Lebensspanne. Einer ihrer
+Forschungsschwerpunkte ist Breathwork bei psychischer Gesundheit, ein
+multizentrisches, vom Deutschen Zentrum für Psychische Gesundheit (DZPG)
+gefördertes Projekt.
+
+## Projekte, an denen ich beteiligt bin
+
+### Musikstudie zu Breathwork mit intensivierter Atmung
+
+Ich arbeite im Team einer experimentellen Studie, die untersucht, wie das
+**Musikgenre** Menschen während **Breathwork mit intensivierter Atmung
+(holotropes Atmen)** beeinflusst. Verglichen werden klassische Musik und
+moderne elektronische Musik wie Techno. Untersucht werden:
+
+- veränderte Bewusstseinszustände während der Sitzung
+- das psychische Wohlbefinden danach
+- die Herzratenvariabilität und die Sauerstoffsättigung
+- die Rolle der persönlichen Musikvorlieben der Teilnehmenden
+
+### Online-Befragung: Akute Effekte von Breathwork
+
+Eine anonyme Online-Befragung der
+[Humboldt-Universität zu Berlin und der Universität Potsdam](https://dziobek-lab.org/breathwork-survey/),
+entwickelt gemeinsam mit dem Berlin Breathwork Council. Befragt werden
+Menschen, die kürzlich an einer Breathwork-Sitzung mit schneller Atmung
+teilgenommen haben, zu den Effekten, die sie währenddessen und danach bemerkt
+haben, etwa auf Wohlbefinden, Körperempfindungen und Emotionen. Ziel ist es,
+die Sicherheit von Breathwork besser einzuschätzen und zu verstehen, wie diese
+Erfahrungen verarbeitet werden.
+
+## Meine bisherigen Aufgaben
+
+- Operationalisierung der Forschungsfragen, u. a. Entwicklung der
+  musikbezogenen Fragebogen-Items
+- Aufbau der gesamten Erhebung in SoSci Survey, mit validierten
+  psychometrischen und klinischen Skalen sowie eigenen Instrumenten
+- Einrichtung eines Ecological Momentary Assessment (EMA) in der App m-Path
+- Rekrutierung von Teilnehmenden für die Online-Befragung durch Kontakt zu
+  Breathwork-Facilitator:innen und Mitgliedern der Community über
+  verschiedene Kanäle
+- Unterstützung der Breathwork-Sitzungen und der Datenerhebung vor Ort
+- Datenmanagement und Auswertung (Excel und R)
+- Verfassen einer Präregistrierung und eines wissenschaftlichen Artikels zum
+  Zusammenhang zwischen
+  physiologischen Veränderungen und veränderten Bewusstseinszuständen
+
 :::
